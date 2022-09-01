@@ -1,12 +1,46 @@
-## Hi there 👋
 
-<!--
 
-**Here are some ideas to get you started:**
+## Microsoft Learn Student Community BSIOTR - Code of Conduct 
+Updated: July 2021
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### What is the purpose of the Microsoft Learn Student Community Code of Conduct?
+
+Microsoft's mission is to empower every person and every organization on the planet to achieve more. Microsoft Learn Student Ambassadors (Student Ambassadors) are a global group of on-campus ambassadors who are eager to help fellow students, lead in their local tech community, and develop technical and career skills for the future. Our standards and values as a program reflect our commitment to make a positive impact around the globe where we seek to provide a respectful, friendly, professional, and an inclusive experience for everyone. Simply put, an individual’s character and leadership truly matter to us.Microsoft makes this Code of Conduct highly visible to clarify our values, expectations, provide reporting resources for conduct violations, and outline how Microsoft may choose to enforce this Code of Conduct.
+
+### What are the values that we expect of our community and those who engage? 
+
+Our program finds strength in diversity and inclusion. In all our interactions, we aspire to embody and champion these values as a program and as a community.
+
+#### •Be respectful and inclusive
+- Respect differences of opinion, just because someone holds a different viewpoint from your own, doesn’t mean that they’re wrong. 
+- Make a conscious effort to include people who differ from you.
+- Remember that people have varying communication styles different from your own. oShow a willingness to understand more about the experiences of others. 
+- Ask questions to understand. 
+
+#### •Lead with empathy 
+- Listen with purpose, seek to understand before being understood. 
+- Conduct yourself professionally and be kind to others.  
+- Show understanding for another person’s situation and emotions.  
+
+#### •Be friendly, open, and welcoming
+- Assume good intent and interpret others’ statements or questions in good faith. 
+- Foster environments that allow all members to feel connected to each other and the community. 
+- Promote a friendly atmosphere where people feel comfortable asking questions, participating in discussions, and making contributions. 
+
+#### •Be thoughtful 
+- Think about how others will interpret your words, productive, clear communication requires effort. 
+- Be aware of your strengths and weaknesses and how your own behavior and reactions influence others’ emotions and actions. 
+- Sometimes it is best to pause from commenting or reacting immediately to feedback/constructive criticism. 
+- We will make mistakes. When others are not at their best, we should reach out, offer support, and seek to understand. When you are at fault, listen, and ask how you can make things right. 
+
+### What are the expectations of Community Leaders and Members? 
+
+MLSC BSIOTR does not tolerate any behavior that is degrading to any individual in any form. This summary of Communitis minimum expectations is intended to provide individuals considering participation in the Microsoft Learn Student Ambassadors Program and the public with the standards of what is not accepted as values within our community include the following (without limitation):
+
+#### •No disrespectful behavior. 
+- This includes threats, harassment, stalking, abuse, slurs, profanity, personal attacks, sexual remarks or innuendos, physical violence, public speculation about others, and any other behavior that Microsoft deems inconsistent with the Student Ambassadors Program. 
+
+#### •No impersonations 
+of a Microsoft employee, agent, manager, host, or another user. 
+•No illegal or offensive activities. Student Ambassadors will not publish, post, distribute, or disseminate defamatory, infringing, obscene, or other unlawful material or discussion. This includes, but is not limited to, child pornography, bestiality, incest, illegal drugs, software piracy, discriminatory/racist statements or images and harassment.•Accountability. Student Ambassadors are fully responsible and liable for anything they say (whether orally or in writing) or do. This includes any actions taken based on advice or information received in online forums or elsewhere, how a Student Ambassador conducts themselves as a community leader, and interactions with other Student Ambassadors and the general public.•No libel or slander against Microsoft or other persons or entities. Libel includes false statements made in written form, such as statements posted to forums or other publicly accessible websites, electronic mail, or any other printed form.•No confidentiality violations. Student Ambassadors may get access to certain non-public information during their participation in the Program and are expected to honor their confidentiality obligations with respect to such information.
+•No plagiarism. Student Ambassadors may only post their own original work or work that they have written permission to post. If a Student Ambassador cites another author’s work, Student Ambassadors are expected to provide any necessary attribution according to the requirements associated with the original author’s work. Learn more about copyright at: https://www.microsoft.com/en-us/legal/Copyright/Default.aspx  •No discrimination or harassment. Microsoft is committed to providing a harassment-free experience to Program participants regardless of age, ancestry, color, gender identity or expression, marital status, medical condition, national origin, physical size, physical or mental disability, political affiliation, veteran status, race, religion, sex (including pregnancy), sexual orientation, or technology choices. Harassment is unwelcome verbal, physical or virtual behavior based on the characteristics identified above. •No sexual harassment. Sexual harassment is unwelcome verbal, physical or virtual behavior based on sex and includes gender-based harassment of a person of the same or different gender. Examples of sexual harassment include, but are not limited to:oUnwelcome sexual advancesoSexual comments or inappropriate gender-based jokesoExcessive, unwelcome romantic attention oOffering or conditioning an employment benefit or preferential treatment, like a promotion or job assignment, in exchange for sexual favorsoUnwelcome physical contactoSharing or displaying sexually explicit contentoUsing sexually degrading wordsImportant Note: The above summary of expectation applies to all Microsoft Learn Student Ambassadors and is for informational purposes. Microsoft reserves the right to amend or change this Code of Conduct at any time, without notice. Microsoft Learn Student Ambassadors agree to periodically review this document to ensure they follow the obligations.How do I report a potential conduct violation? If you become aware of a conduct violation on or offline, you are encouraged to report it to Student Ambassador Global Support. If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of the Program staff immediately.If you don’t feel comfortable going through one of these channels, you can raise an anonymous concern via the Microsoft Runs on Trust website.How is the Code of Conduct enforced?All reported concerns are reviewed confidentially by the Microsoft Learn Student Ambassadors management team. Disciplinary actions, up to and including removal from the Program, are made on a case-by-case basis at Microsoft's sole discretion.
