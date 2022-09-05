@@ -49,7 +49,8 @@ MLSC BSIOTR does not tolerate any behavior that is degrading to any individual i
 Libel includes false statements made in written form, such as statements posted to forums or other publicly accessible websites, electronic mail, or any other printed form.
 #### •No confidentiality violations.
 community members may get access to certain non-public information during their participation in the Program and are expected to honor their confidentiality obligations with respect to such information.
-####•No discrimination or harassment.
+
+#### •No discrimination or harassment.
 Microsoft is committed to providing a harassment-free experience to Program participants regardless of age, ancestry, color, gender identity or expression, marital status, medical condition, national origin, physical size, physical or mental disability, political affiliation, veteran status, race, religion, sex (including pregnancy), sexual orientation, or technology choices. Harassment is unwelcome verbal, physical or virtual behavior based on the characteristics identified above. 
 #### •No sexual harassment.
 Sexual harassment is unwelcome verbal, physical or virtual behavior based on sex and includes gender-based harassment of a person of the same or different gender. Examples of sexual harassment include, but are not limited to:
