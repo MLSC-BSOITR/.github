@@ -64,4 +64,4 @@ https://chat.whatsapp.com/KNXC40r1oA2FblGJA6kcVb
 Thank you!
 
 - Devendra Tayade 
-- (Community lead BSIOTR)
+https://www.linkedin.com/in/devtayade/ (Community lead BSIOTR)
