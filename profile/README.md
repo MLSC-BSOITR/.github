@@ -1,7 +1,7 @@
 
 
 ## Microsoft Learn Student Community BSIOTR - Code of Conduct 
-Updated: July 2021
+Updated: September 2022
 
 ### What is the purpose of the Microsoft Learn Student Community Code of Conduct?
 
