@@ -58,6 +58,9 @@ Sexual harassment is unwelcome verbal, physical or virtual behavior based on sex
 ### - Important Note: 
 The above summary of expectation applies to all Microsoft Learn Student Ambassadors and Community is for informational purposes.  MLSC BSIOTR reserves the right to amend or change this Code of Conduct at any time, without notice. Community members and leads agree to periodically review this document to ensure they follow the obligations.
 
+Join The community Whatsapp group 
+https://chat.whatsapp.com/KNXC40r1oA2FblGJA6kcVb
+
 Thank you!
 
 - Devendra Tayade 
