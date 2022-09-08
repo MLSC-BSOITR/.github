@@ -1,7 +1,7 @@
 
 
 ## Microsoft Learn Student Community BSIOTR - Code of Conduct 
-Updated: September 2022
+![Profile views](https://gpvc.arturio.dev/mlsc-bsiotr)   Updated: September 2022
 
 ### What is the purpose of the Microsoft Learn Student Community Code of Conduct?
 
