@@ -1,5 +1,5 @@
 # MLSC is participating at 
-![https://github.com/MLSC-BSOITR/.github/blob/acbcd6f0a88514e158ac20eeee815746ec9df32d/profile/WhatsApp%20Image%202022-09-27%20at%2012.17.09%20AM.jpeg]
+!(https://github.com/MLSC-BSOITR/.github/blob/acbcd6f0a88514e158ac20eeee815746ec9df32d/profile/WhatsApp%20Image%202022-09-27%20at%2012.17.09%20AM.jpeg)
 
 ## Microsoft Learn Student Community BSIOTR - Code of Conduct 
 ![Profile views](https://gpvc.arturio.dev/mlsc-bsiotr)   Updated: September 2022
